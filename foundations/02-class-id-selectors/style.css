@@ -6,9 +6,7 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
-.odd.font {
-    background-color: hsl(1, 100, 90);
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+.font {
     font-size: 24px;    
 }#change {
     background-color: #90ee90;
