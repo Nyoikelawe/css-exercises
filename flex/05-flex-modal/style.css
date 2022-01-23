@@ -85,4 +85,6 @@ button.cancel {
 
 .buttons {
   display: flex;
+  gap: 4px;
+  margin-top: 14px;
 }
