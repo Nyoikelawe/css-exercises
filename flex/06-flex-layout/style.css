@@ -15,7 +15,7 @@ button {
   font-family: Roboto, sans-serif;
   border: none;
   border-radius: 8px;
-  background: #eee;
+  background: #eeeeee;
   padding: 12px;
 }
 
@@ -49,4 +49,8 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.footer {
+  background: #eeeeee;
 }
