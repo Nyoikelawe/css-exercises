@@ -37,3 +37,9 @@ ul {
   gap: 15px;
   list-style-type: none;
 }
+
+.left-links,
+.right-links {
+  margin: 0;
+  padding: 0;
+}
