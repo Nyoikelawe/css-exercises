@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 12px;
 }
 
 input {
@@ -26,8 +27,7 @@ input {
   margin-bottom: 16px;
 }
 
-.header,
-.footer {
+.header, .footer {
   display: flex;
   justify-content: space-between;
 }
